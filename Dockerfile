@@ -1,2 +1,2 @@
 FROM tomcat:10
-COPY sample.war /usr/local/tomcat/webapps/sample.war
+COPY app/sample.war /usr/local/tomcat/webapps/sample.war
